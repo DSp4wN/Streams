@@ -51,18 +51,27 @@ User needs to login before creating,reading or editing any data.
 
 ### Here are the ways to access different section of App :
 
+- Home Page :
+> http://localhost:3000
+
+![](https://github.com/yogesh021/Streams/blob/main/client/public/screenshots/home.PNG)
+
 - Creating stream :
  > http://localhost:3000/streams/create
  
+ ![](https://github.com/yogesh021/Streams/blob/main/client/public/screenshots/Create-stream.PNG)
  
 - Editing stream :
  > http://localhost:3000/streams/edit/:id
  
+ ![](https://github.com/yogesh021/Streams/blob/main/client/public/screenshots/edit-stream.PNG)
  
 - Watching stream :
  > http://localhost:3000/streams/:id
  
+ ![](https://github.com/yogesh021/Streams/blob/main/client/public/screenshots/streaming.PNG)
  
 - Deleting stream :
  > http://localhost:3000/streams/delete/:id
  
+ ![](https://github.com/yogesh021/Streams/blob/main/client/public/screenshots/delete-stream.PNG)
